@@ -1,6 +1,6 @@
-  # Selamat datang di Arief_GitHub                  13 Oktober 2020
+  # Selamat datang di Arief_GitHub                 
   # Keamanan Jaringan Nirkabel 
-
+                                           13 Oktober 2020
 
 Jaringan nirkabel atau yang sering disebut dengan wireless network mulai semakin digemari dewasa ini. Hal tersebut karena kemudahan untuk instalasi dan juga terasa sangat nyaman dalam penggunaannya.
 
